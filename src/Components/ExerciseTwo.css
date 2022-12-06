@@ -1,0 +1,12 @@
+.colorbox {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.headBox {
+  display: grid;
+  gap: 13px;
+  grid-template-columns: repeat(8, 1fr);
+}
